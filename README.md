@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Languages & Frameworks:<br>C#, ASP.NET MVC, JavaScript, TypeScript, Python<br><br>🗄️ Databases:<br>Microsoft SQL Server, Entity Framework, LINQ<br><br>🧩 Frontend:<br>React, Vite, Tailwind CSS, ApexCharts<br><br>🔌 API & Backend:<br>RESTful API development, FastAPI, Token-based authentication<br><br>⚙️ Dev Tools & Workflow:<br>Visual Studio, VS Code, Git, Postman, Swagger, SSMS<br><br>📊 Projects & Applications:<br>• Internal enterprise systems for administrative automation<br>• Water billing and payment tracking system for public sector<br>• AI-assisted task routing model (rule-based, FastAPI backend)</p>
+<p align="left">💻 Languages & Frameworks:<br>C#, ASP.NET MVC, JavaScript, Python<br><br>🗄️ Databases:<br>Microsoft SQL Server, Entity Framework, LINQ<br><br>🧩 Frontend:<br>React, Vite, Tailwind CSS, ApexCharts<br><br>🔌 API & Backend:<br>RESTful API development, FastAPI, Token-based authentication<br><br>⚙️ Dev Tools & Workflow:<br>Visual Studio, VS Code, Git, Postman, Swagger, SSMS<br><br>📊 Projects & Applications:<br>• Internal enterprise systems for administrative automation<br>• Water billing and payment tracking system for public sector<br>• AI-assisted task routing model (rule-based, FastAPI backend)</p>
 
 ###
 
